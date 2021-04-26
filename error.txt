@@ -1,0 +1,3 @@
+Expected the output to contain the string Pancake dough, cooking time: 15.
+When the contents of the file are: Pancake dough 15 milk Meatballs 10 ground meat
+Test the program with the commands: test-758359 list stop . 
